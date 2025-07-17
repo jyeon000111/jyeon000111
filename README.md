@@ -2,9 +2,8 @@
 
 
 ---
-
 ### 👋 안녕하세요! 김지연입니다.
-- SSAFY 14기에서 알고리즘과 개발 역량을 쌓고 있습니다.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=1000&color=2CF796&width=435&lines=SSAFY+14%EA%B8%B0%EC%97%90%EC%84%9C+%EA%B0%9C%EB%B0%9C+%EC%97%AD%EB%9F%89%EC%9D%84+%EC%8C%93%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 ### 🌱 현재 학습 중인 기술
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=red)
